@@ -17,7 +17,6 @@ The compiler will output the VM assembly code to a file called my_program.vm.
 ## Features
 The compiler supports the following features of the Jack language:
 
-* Classes
 * Objects
 * Methods
 * Variables
